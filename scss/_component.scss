@@ -1,0 +1,9 @@
+@use 'base' as *;
+
+
+h1{
+    font-size:$font-size;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: $color-primary;
+    background-color: aqua;
+}
